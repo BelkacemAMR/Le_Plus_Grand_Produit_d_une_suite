@@ -8,7 +8,7 @@ Le script conserve la plus grande valeur trouvée, et une fois la série parcour
 
 Le script a été testé avec succès sur plusieurs exemples et fournit la réponse attendue.
 
-Comment utiliser le script
+#### Comment utiliser le script
 Assurez-vous d'avoir Python 3 installé sur votre machine.
 Téléchargez le fichier euler8.py sur votre ordinateur.
 Ouvrez votre terminal ou votre invite de commandes.
