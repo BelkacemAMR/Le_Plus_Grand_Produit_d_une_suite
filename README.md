@@ -10,8 +10,8 @@ Le script a été testé avec succès sur plusieurs exemples et fournit la répo
 
 #### Comment utiliser le script? 
 
-Assurez-vous d'avoir Python 3 installé sur votre machine.
-Téléchargez le fichier euler8.py sur votre ordinateur.
+1. Assurez-vous d'avoir Python 3 installé sur votre machine.
+2. Téléchargez le fichier euler8.py sur votre ordinateur.
 Ouvrez votre terminal ou votre invite de commandes.
 Accédez au dossier contenant le fichier euler8.py.
 Tapez python euler8.py dans votre terminal.
