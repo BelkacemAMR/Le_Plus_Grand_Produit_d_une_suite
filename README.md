@@ -12,8 +12,8 @@ Le script a été testé avec succès sur plusieurs exemples et fournit la répo
 
 1. Assurez-vous d'avoir Python 3 installé sur votre machine.
 2. Téléchargez le fichier euler8.py sur votre ordinateur.
-Ouvrez votre terminal ou votre invite de commandes.
-Accédez au dossier contenant le fichier euler8.py.
-Tapez python euler8.py dans votre terminal.
-Appuyez sur Entrée pour exécuter le script.
-La solution sera affichée sur une seule ligne dans la console.
+3. Ouvrez votre terminal ou votre invite de commandes.
+4. Accédez au dossier contenant le fichier euler8.py.
+5. Tapez python euler8.py dans votre terminal.
+6. Appuyez sur Entrée pour exécuter le script.
+7. La solution sera affichée sur une seule ligne dans la console.
