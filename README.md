@@ -1,4 +1,5 @@
-# 8ème problème du projet Euler - Recherche de la plus grande somme dans une grille
+# 8ème problème du projet Euler 
+## Recherche de la plus grande somme dans une grille
 
 Le 8ème problème du projet Euler demande de trouver le plus grand produit de 13 chiffres consécutifs dans une série de 1000 chiffres.
 
